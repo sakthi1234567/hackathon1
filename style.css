@@ -1,0 +1,33 @@
+#head1{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background-color: blue;
+    text-shadow: 2px 2px;
+    }
+    .main{
+        background-color: #a52a2a;
+         /* position: fixed; */
+    }
+    #head4{
+        text-align: center;
+        text-shadow: 1px 1px white;
+        color: white;
+        
+    }
+    #subMain{
+        
+        display: flex;
+        justify-content: center;
+    }
+    #sub{
+        /* border: 3px solid black;  */
+        width: 900px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        flex-direction: row;
+        align-items: center;
+        
+    } 
+ 
