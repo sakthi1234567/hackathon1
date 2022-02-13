@@ -59,7 +59,7 @@ async function getData(){
                 aTag.innerHTML += "GET MORE DETAILS";
                 divElement.append(aTag);
                 let brTag2 = document.createElement('br')
-                //console.log("br creating");
+                // console.log("br creating");
                 divElement.append(brTag2);
 
             }
