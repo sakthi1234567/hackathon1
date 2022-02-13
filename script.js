@@ -41,7 +41,7 @@ async function getData(){
                 imgTag.setAttribute("src",`${ele.image_link}`)
                 divElement.append(imgTag);
                 let brTag = document.createElement('br')
-                console.log("br creating");
+               // console.log("br creating");
                 divElement.append(brTag);
 
             }
